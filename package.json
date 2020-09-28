@@ -1,7 +1,7 @@
 {
   "name": "haskell",
   "main": "./lib/haskellLanguageClient",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Haskell language support for Atom, powered by Haskell Language Server.",
   "keywords": [
     "Haskell",
